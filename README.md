@@ -36,8 +36,4 @@ Status badge
 
 [![Actions Status](https://github.com/bcts369/actions-playground/workflows/Timer%20per%20one%20hour/badge.svg)](https://github.com/bcts369/actions-playground/actions)
 
-https://github.com/bcts369/hello-world-docker-action/workflows/hello-world-docker-action/badge.svg
-
-![](https://github.com/hello-world-docker-action/workflows/Hello%20World/badge.svg)
-
-[![Actions Status](https://github.com/bcts369/hello-world-docker-action/workflows/HelloWorld/badge.svg)]()
+[![Actions Status](https://github.com/bcts369/hello-world-docker-action/workflows/HelloWorld/badge.svg)](https://github.com/bcts369/actions-playground/actions)
