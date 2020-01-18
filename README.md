@@ -38,4 +38,4 @@ Status badge
 
 https://github.com/bcts369/hello-world-docker-action/workflows/hello-world-docker-action/badge.svg
 
-![](https://github.com/actions/hello-world-docker-action/workflows/Hello%20World/badge.svg)
+![](https://github.com/hello-world-docker-action/workflows/Hello%20World/badge.svg)
