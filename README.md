@@ -31,3 +31,9 @@ uses: actions/hello-world-docker-action@v1
 with:
   who-to-greet: 'Mona the Octocat'
 ```
+
+Status badge
+
+[![Actions Status](https://github.com/bcts369/actions-playground/workflows/Timer%20per%20one%20hour/badge.svg)](https://github.com/bcts369/actions-playground/actions)
+
+https://github.com/bcts369/hello-world-docker-action/workflows/hello-world-docker-action/badge.svg
